@@ -1,7 +1,7 @@
 {
-  "name": "javascript-action",
+  "name": "rui",
   "version": "1.0.0",
-  "description": "JavaScript Action Template",
+  "description": "Serverless RSS Subscriber, Sent to Telegram Channel with Actions",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -18,17 +18,15 @@
     "Actions",
     "JavaScript"
   ],
-  "author": "",
+  "author": "rzkmak <mail@rizkima.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/actions/javascript-action/issues"
+    "url": "https://github.com/rzkmak/rui/issues"
   },
-  "homepage": "https://github.com/actions/javascript-action#readme",
+  "homepage": "https://github.com/rzkmak/rui",
   "dependencies": {
     "@actions/core": "^1.2.5",
     "@actions/github": "^4.0.0",
-    "@octokit/core": "^3.2.4",
-    "checkout": "github:actions/checkout",
     "node-telegram-bot-api": "^0.51.0",
     "rss-parser": "^3.10.0",
     "shelljs": "^0.8.4",
