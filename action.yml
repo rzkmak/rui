@@ -1,4 +1,4 @@
-name: 'Rui'
+name: 'rui-rss'
 author: 'rzkmak <mail@rizkima.com>'
 description: 'Serverless RSS Subscriber, Sent to Telegram Channel with Actions'
 runs:

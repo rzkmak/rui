@@ -1,5 +1,5 @@
 {
-  "name": "rui",
+  "name": "rui-rss",
   "version": "1.0.0",
   "description": "Serverless RSS Subscriber, Sent to Telegram Channel with Actions",
   "main": "index.js",
