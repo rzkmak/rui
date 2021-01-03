@@ -9,7 +9,7 @@ Link: ${link}
 };
 
 module.exports.BroadcastUpdate = function (siteUpdate) {
-    const bot = new TelegramBot(process.env.GITHUB_TOKEN);
+    const bot = new TelegramBot(process.env.TELEGRAM_TOKEN);
     if (!siteUpdate.contents) return;
     siteUpdate.contents.forEach(content => {
         bot.sendMessage(
