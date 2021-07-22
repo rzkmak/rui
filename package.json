@@ -27,7 +27,7 @@
   "dependencies": {
     "@actions/core": "^1.2.5",
     "@actions/github": "^4.0.0",
-    "node-telegram-bot-api": "^0.51.0",
+    "node-telegram-bot-api": "^0.54.0",
     "rss-parser": "^3.10.0",
     "shelljs": "^0.8.4",
     "yaml": "^2.0.0-1"
