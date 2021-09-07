@@ -30,7 +30,7 @@
     "node-telegram-bot-api": "^0.51.0",
     "rss-parser": "^3.10.0",
     "shelljs": "^0.8.4",
-    "yaml": "^2.0.0-1"
+    "yaml": "^2.0.0-8"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.26.2",
