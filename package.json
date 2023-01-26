@@ -33,7 +33,7 @@
     "yaml": "^2.0.0-1"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.26.2",
+    "@vercel/ncc": "^0.36.1",
     "eslint": "^8.6.0",
     "jest": "^26.1.0"
   }
